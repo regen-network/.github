@@ -6,3 +6,4 @@ Regen Network is a platform for ecological regeneration projects.
 - [Regen Network Application](https://app.regen.network/)
 - [Regen Network User Guides](https://guides.regen.network/guides/)
 - [Regen Ledger Documentation](https://docs.regen.network/)
+- [Regen Registry Program](https://library.regen.network/)
