@@ -1,6 +1,6 @@
 # Welcome
 
-Regen Network is a platform for ecological regeneration projects.
+Regen Network is a platform to originate and invest in high-integrity carbon and biodiversity credits from ecological regeneration projects.
 
 - [Regen Network Website](https://www.regen.network/)
 - [Regen Network Application](https://app.regen.network/)
